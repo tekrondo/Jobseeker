@@ -1,3 +1,6 @@
+h2{
+	font-family: 'Merriweather', serif;
+}
 #nav_top{
 	width: 100%;
 	height: 60px;
@@ -15,7 +18,7 @@
 	padding-top: 1.3%;
 }
 #nav_top li p{
-
+	font-family: 'Armata', sans-serif;
 }
 #post_job{
 	width: 15%;
@@ -31,6 +34,7 @@
 }
 #post_job h1{
 	font-size: 2em;
+	font-family: 'Merriweather', serif;
 	font-weight: bold;
 	padding-top: 2%;
 	padding-bottom: 8%;
@@ -39,12 +43,13 @@
 #post_job p{
 	line-height: 1.2em;
 	margin-bottom: 3%;
+	font-family: 'Armata', sans-serif;
 }
 input[value="Post a Job"]{
 	border: none;
 	background-color: green;
 	padding-top: 2%;
-	
+	color: white;
 	font-size: 1.3em;
 	height: 15%;
 	width: 65%;
@@ -70,6 +75,7 @@ input[value="Post a Job"]{
 }
 #hire h2 {
 	font-size: 1.5em;
+	font-family: 'Merriweather', serif;
 	text-align: center;
 	
 }
@@ -85,6 +91,7 @@ input[value="Post a Job"]{
 }
 #how_it_works h2{
 	font-size: 3em;
+	font-family: 'Merriweather', serif;
 	text-align: center;
 	padding-bottom: 1%;
 	padding-top: 1.5%;
@@ -93,6 +100,9 @@ input[value="Post a Job"]{
 	display: inline-block;
 	margin-right: 2%;
 	margin-left: 10%;
+}
+#how_it_works p{
+	font-family: 'Varela Round', sans-serif;
 }
 #looking_job{
 	width: 100%;
@@ -111,7 +121,10 @@ input[value="Post a Job"]{
 	padding-top: 5%;
 }
 #look_job p{
+	padding-top: 2%;
 	font-size: 18px;
+	
+	font-family: 'Armata', sans-serif;
 }
 input[value="Get Started"]{
 	width: 125px;
@@ -125,6 +138,8 @@ input[value="Get Started"]{
 }
 #looking_job h2{
 	font-size: 3em;
+	font-family: 'Merriweather', serif;
+
 }
 #partners{
 	width: 100%;
@@ -133,6 +148,7 @@ input[value="Get Started"]{
 }
 #partners h2{
 	font-size: 3em;
+	font-family: 'Merriweather', serif;
 	margin-top: 5%;
 	text-align: center;
 }
