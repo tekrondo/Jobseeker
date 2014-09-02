@@ -1,0 +1,163 @@
+#nav_top{
+	width: 100%;
+	height: 60px;
+	position: absolute;
+	background-color: #fff;
+	opacity: 0.5;
+	z-index: 1;
+	}
+#nav_top li{
+	display: inline-block;
+	float: right;
+	font-weight: bold;
+	margin-left: 2%;
+	padding-right: 1%;
+	padding-top: 1.3%;
+}
+#nav_top li p{
+
+}
+#post_job{
+	width: 15%;
+	height: 35%;
+	
+	position: absolute;
+	z-index: 1;
+	margin-top: 5%;
+	margin-left: 3%;
+}
+#post_job img{
+	float: right;
+}
+#post_job h1{
+	font-size: 2em;
+	font-weight: bold;
+	padding-top: 2%;
+	padding-bottom: 8%;
+	padding-left: 1%;
+}
+#post_job p{
+	line-height: 1.2em;
+	margin-bottom: 3%;
+}
+input[value="Post a Job"]{
+	border: none;
+	background-color: green;
+	padding-top: 2%;
+	
+	font-size: 1.3em;
+	height: 15%;
+	width: 65%;
+}
+#background_image img{
+	width: 100%;
+	/*z-index: -1;*/
+	position: relative;
+	/*padding-bottom: 2%;*/
+	margin-bottom: 2%;
+}
+
+#hire{
+	width: 100%;
+	height: 60px;
+	padding-top: 1.3%;
+	position: absolute;
+	background-color: #000;
+	color: white;
+	opacity: 0.5;
+	margin-top: 25%;
+	z-index: 1;
+}
+#hire h2 {
+	font-size: 1.5em;
+	text-align: center;
+	
+}
+#hire li{
+	display: inline-block;
+	margin-top: 1%;
+	padding-left: 10%;
+}
+#how_it_works{
+	width: 100%;
+	height: 320px;
+	padding-top: 2%;
+}
+#how_it_works h2{
+	font-size: 3em;
+	text-align: center;
+	padding-bottom: 1%;
+	padding-top: 1.5%;
+}
+#how_it_works li{
+	display: inline-block;
+	margin-right: 2%;
+	margin-left: 10%;
+}
+#looking_job{
+	width: 100%;
+	height: 280px;
+}
+
+#looking_job img{
+	width: 100%;
+	position: absolute;
+	z-index: 1;
+	height: 280px;
+	opacity: 0.4;
+}
+#look_job{
+	text-align: center;
+	padding-top: 5%;
+}
+#look_job p{
+	font-size: 18px;
+}
+input[value="Get Started"]{
+	width: 125px;
+	height: 45px;
+	border: none;
+	background-color: green;
+	margin-top: 1%;
+	font-weight: bold;
+	color:white;
+
+}
+#looking_job h2{
+	font-size: 3em;
+}
+#partners{
+	width: 100%;
+	height: 20%;
+	margin-bottom: 5%;
+}
+#partners h2{
+	font-size: 3em;
+	margin-top: 5%;
+	text-align: center;
+}
+.images{
+	margin-top: 5%;
+	margin-left: 10%;
+	width: 10.5%;
+	height: 25%;
+	border:2px solid #ccc;
+	display: inline-block;
+}
+#partner_images img{
+	margin-left: 20px;
+}
+
+footer{
+	width: 100%;
+	height: 80px;
+	border-top: 3px solid green;
+	background-color: black;
+	opacity: 0.7; 
+	color: white;
+}
+footer li{
+	padding-top: 2%;
+	padding-left: 5%;
+	display: inline-block;
+}

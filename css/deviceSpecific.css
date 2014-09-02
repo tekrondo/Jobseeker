@@ -1,0 +1,209 @@
+@media screen and (max-width: 980px) {
+	#nav_top{}
+	#nav_top li{}
+	#post_job{
+		width: 19%;
+		height:25%;
+		margin-top: 7%;
+		margin-left: 2.5%;
+	}
+	#post_job h1{
+		font-size: 1.4em;
+		padding-bottom: 5%;
+	}
+	#post_job p{
+		font-size: 0.8em;
+		line-height: 1em;
+		margin-bottom: 2%;
+	}
+
+	input[value="Post a Job"]{
+			font-size: 0.9em;
+			height: 13%;
+			width: 55%;
+	}
+	/*#background_image img*/
+	#hire {
+		margin-top: 23%;
+		height: 60px;
+	}
+	#hire h2{
+		font-size: 1.3em;
+	}
+	#hire li{
+		margin-top: 0.8%;
+		padding-left: 8.5%;
+	}
+	#how_it_works{
+		height: 300px;
+		padding-top: 1.5%;
+	}
+	#how_it_works h2{
+		font-size: 2.65em;
+		padding-top: 1.2%;
+		padding-bottom: 1.2%;
+	}
+	#how_it_works li{
+		margin-right: 1.6%;
+		margin-left: 8%;
+	}
+	#looking_job{
+		height: 260px;
+	}
+	#looking_job img{
+		height: 260px;
+	}
+	#looking_job p{
+		font-size: 16px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	input[value="Get Started"]{
+		width: 100px;
+		height: 40px;
+	}
+	#looking_job h2{
+		font-size: 2.5em;
+	}
+	#partners{
+		height: 10%;
+	}
+	#partners h2{
+		font-size: 2.5em;
+		margin-top: 4%;
+	}
+	.images{
+		width: 8.35%;
+		height: 23%;
+	}
+	footer li{
+		font-size: 0.95em;
+	}
+}
+
+/*@media screen and (max-width: 860px) {
+	#nav_top{
+		height: 50px;
+	}
+	#nav_top li p{
+		font-size: 16px;
+	}
+	#post_job{
+		width: 14%;
+		height: 34%;
+	}
+}*/
+
+@media screen and (max-width: 680px) {
+	body {
+		;
+
+	}
+}
+
+@media screen and (max-width: 680px) {
+	body {
+		;
+
+	}
+}
+@media screen and (max-width: 320px) {
+	#nav_top{
+		height: 4%;
+	}
+	#nav_top li{
+		font-size: 0.8em;
+		
+	}
+	#post_job{
+		height: 10%;
+		width: 40%;
+		margin-top: 1.5%;
+	}
+	#post_job h1{
+		font-size: 0.6em;
+		padding-bottom: 3%;
+	}
+	#post_job p{
+		font-size: 10px;
+		line-height: 0.9em;
+	}
+	input[value="Post a Job"]{
+		float: right;
+	}
+	#background_image img{
+		height: 130px;
+	}
+	#hire{
+		height: 6.5%;
+		margin-top: 27%;
+	}
+	#hire h2{
+		font-size: 1em;
+	}
+	#hire li{
+		padding-left: 3%;
+	}
+	#hire li p{
+		font-size: 10px;
+	}
+	#how_it_works{
+		height: 240px;
+	}
+	#how_it_works h2{
+		font-size: 1.2em;
+		font-weight: bold;
+	}
+	#how_it_works img{
+		width: 40%;
+
+	}
+	#how_it_works li{
+		margin-right: 0.5%;
+		margin-left: 5%;
+	}
+	#how_it_works p{
+		font-size: 0.7em;
+	}
+	#looking_job{
+		height: 200px;
+	}
+	#looking_job img{
+		height: 30%;
+	}
+	#look_job h2{
+		font-size: 2em;
+		font-weight: bold;
+	}
+	#look_job p{
+		font-size: 0.95em;
+	}
+	#partners{
+		margin-bottom: 3%;
+	}
+	#partners h2{
+		font-size: 2em;
+	}
+	#partners img{
+		height: 40%;
+		width: 40%;
+		margin-left: 10px;
+		padding-right: 2px;
+	}
+	.images{
+		width: 40%;
+		height: 40%;
+		margin-left: 5%;
+	}
+	footer{
+		height: 50px;
+	}
+	footer li{
+		padding-left: 2.5%;
+	}
+	footer p{
+		font-size: 0.8em;
+		padding-top: 8%;
+	}
+
+}
